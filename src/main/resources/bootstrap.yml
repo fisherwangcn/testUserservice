@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: demo-web-service
+  profiles:
+    active: dev
+server:
+  port: 8899
+
+
+
+
+
+
