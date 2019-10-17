@@ -20,6 +20,6 @@ class MyController{
 	@RequestMapping(value = "/user", produces = "application/json;charset=UTF-8")
 	@ResponseBody
 	public Object getUser(){
-		return "branch master user1 ----------second commit";
+		return "branch mybranch user1 ----------first commit";
 	}
 }
